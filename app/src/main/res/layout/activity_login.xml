@@ -54,7 +54,7 @@
         android:layout_above="@+id/llSignInButton"/>-->
 
     <pl.droidsonroids.gif.GifImageView
-        android:id="@+id/gif"
+        android:id="@+id/gifText"
         android:layout_width="296dp"
         android:layout_height="249dp"
         android:src="@drawable/login8"
@@ -216,6 +216,16 @@
         app:layout_constraintEnd_toEndOf="@+id/googleSignIn"
         app:layout_constraintTop_toTopOf="@+id/googleSignIn"
         app:layout_constraintVertical_bias="0.421" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/editTextLoginEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <!-- </LinearLayout>-->
 
