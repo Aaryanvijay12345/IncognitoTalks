@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742603372069",
+    "project_id": "incognitotalk",
+    "storage_bucket": "incognitotalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742603372069:android:a10dbe0e4687e90b3b31cc",
+        "android_client_info": {
+          "package_name": "com.talks.incognitotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742603372069-vnk4nuvv6up9unmu9n4tg9n2qfccrjcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3rY_omIyAvRSTd-4m9fGJubDTSN3-Zq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742603372069-vnk4nuvv6up9unmu9n4tg9n2qfccrjcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
